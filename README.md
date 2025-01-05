@@ -1,4 +1,6 @@
- 
+# Error troubleshoot for EKS two tier application deployment 
+https://docs.google.com/document/d/1b9fADHQdNIezk71kRuppmHYkk-PJr7YSZCX22JVGBu4/edit?usp=sharing
+
 # Flask App with MySQL Docker Setup
 
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
